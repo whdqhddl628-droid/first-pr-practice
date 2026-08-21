@@ -1,10 +1,10 @@
 # First PR Practice
 
-Wecome! This repository was created to practice my very first pull request on GitHub.
+Welcome! This repository was created to practice my very first pull request on GitHub.
 
 ## About
 
-This is a smaple project used to learn the basic pull request workflow:
+This is a sample project used to learn the basic pull request workflow:
 
 1. Create a branch
 2. Make a small change
